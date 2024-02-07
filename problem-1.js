@@ -8,5 +8,5 @@ function calculateMoney(ticket ) {
    return perDayIncome
 }
 
-let ticketSell = calculateMoney( 120)
+let ticketSell = calculateMoney( 10)
 console.log(ticketSell)
